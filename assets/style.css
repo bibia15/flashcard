@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(142, 81, 8);
+    background-color: rgb(156, 123, 82);
     font-family: 'Bai Jamjuree';
 }
 
@@ -21,7 +21,7 @@ body{
 }
 
 .cartao__conteudo h3 {
-    background-color: brown;
+    background-color: rgb(155, 82, 82);
     text-align: left;
     padding: 0.5rem;
     position: absolute;
@@ -36,8 +36,8 @@ body{
 }
 
 footer {
-    background-color: rgb(250, 215, 243);
-    color: brown;
+    background-color: rgb(9, 4, 0);
+    color: rgb(232, 193, 215);
     position: fixed;
     bottom: 0;
     width: 100%;
