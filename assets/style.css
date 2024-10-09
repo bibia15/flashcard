@@ -70,6 +70,16 @@ footer {
     height: 2rem;
 }
 
+
+
+  .cartao__conteudo__resposta {
+    transform: rotateY(180deg);
+    backface-visibility: hidden;
+    position: absolute;
+    
+  }
+
+
 footer p {
     text-align: center;
     font-size: 0.6rem;
